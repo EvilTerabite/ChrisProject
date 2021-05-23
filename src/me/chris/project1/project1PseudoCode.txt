@@ -1,0 +1,5 @@
+Get integer for how many $years the employee has worked
+Get the current $salary of the employee
+if the $years is less than 5 $bonus-percentage is 0.02, otherwise the $bonus-percentage is 0.01
+
+print out "Congratulations, Your bonus is $bonus-value" where $bonus-value is $salary multiplied by $bonus-percentage
